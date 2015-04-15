@@ -8,8 +8,8 @@
  -->
 
 A collection of classes and utilities that I frequently using in my projects. Current version contains:
-    * OS Version check macros
-    * UIColor build macros
+ * OS Version check macros
+ * UIColor build macros
 
 ## Usage
 
