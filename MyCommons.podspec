@@ -10,12 +10,11 @@
 Pod::Spec.new do |s|
   s.name             = "MyCommons"
   s.version          = "0.1.0"
-  s.summary          = "A short description of MyCommons."
+  s.summary          = "A collection of classes and utilities that I frequently using in my projects."
   s.description      = <<-DESC
-                       An optional longer description of MyCommons
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                        A collection of classes and utilities that I frequently using in my projects.
+                            • OS Version check macros
+                            • UIColor build macros
                        DESC
   s.homepage         = "https://github.com/pbeast/MyCommons"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
