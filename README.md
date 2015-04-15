@@ -8,14 +8,12 @@
  -->
 
 A collection of classes and utilities that I frequently using in my projects. Current version contains:
-    * OS Version check macros
-    * UIColor build macros
-
-## Usage
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+ * OS Version check macros
+ * UIColor build macros
 
 ## Requirements
+
+Meanwhile, not much
 
 ## Installation
 
