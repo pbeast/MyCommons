@@ -2,10 +2,14 @@
 
 [![CI Status](http://img.shields.io/travis/pbeast/MyCommons.svg?style=flat)](https://travis-ci.org/pbeast/MyCommons)
 <!---
-[![Version](https://img.shields.io/cocoapods/v/MyCommons.svg?style=flat)](http://cocoapods.org/pods/MyCommons)
-[![License](https://img.shields.io/cocoapods/l/MyCommons.svg?style=flat)](http://cocoapods.org/pods/MyCommons)
-[![Platform](https://img.shields.io/cocoapods/p/MyCommons.svg?style=flat)](http://cocoapods.org/pods/MyCommons)
--->
+ [![Version](https://img.shields.io/cocoapods/v/MyCommons.svg?style=flat)](http://cocoapods.org/pods/MyCommons)
+ [![License](https://img.shields.io/cocoapods/l/MyCommons.svg?style=flat)](http://cocoapods.org/pods/MyCommons)
+ [![Platform](https://img.shields.io/cocoapods/p/MyCommons.svg?style=flat)](http://cocoapods.org/pods/MyCommons)
+ -->
+
+A collection of classes and utilities that I frequently using in my projects. Current version contains:
+    * OS Version check macros
+    * UIColor build macros
 
 ## Usage
 
