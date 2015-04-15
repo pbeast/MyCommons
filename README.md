@@ -11,11 +11,9 @@ A collection of classes and utilities that I frequently using in my projects. Cu
  * OS Version check macros
  * UIColor build macros
 
-## Usage
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
+
+Meanwhile, not much
 
 ## Installation
 
