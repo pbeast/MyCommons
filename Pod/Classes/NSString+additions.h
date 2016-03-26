@@ -10,7 +10,12 @@
 
 @interface NSString (additions)
 
++ (NSString*) uniqueString;
+- (NSString*) urlEncodedString;
+- (NSString*) urlDecodedString;
+- (NSString*) jsonReady;
 -(NSString*)trim;
+
 @property (readonly) BOOL isEmpty;
 @property (readonly) BOOL isWhitespaceOrEmpty;
 @property (readonly) BOOL isNilOrEmpty;
