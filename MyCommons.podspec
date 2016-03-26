@@ -9,10 +9,10 @@
 
 Pod::Spec.new do |s|
   s.name             = "MyCommons"
-  s.version          = "0.1.0"
-  s.summary          = "A collection of classes and utilities that I frequently using in my projects."
+  s.version          = "0.2.0"
+  s.summary          = "A collection of classes and utilities that I frequently use in my projects."
   s.description      = <<-DESC
-                        A collection of classes and utilities that I frequently using in my projects.
+                        A collection of classes and utilities that I frequently use in my projects.
                             • OS Version check macros
                             • UIColor build macros
                        DESC
