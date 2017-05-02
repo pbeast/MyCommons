@@ -1,7 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
 
-target 'MyCommons', :exclusive => true do
+target 'MyCommons' do
   pod "MyCommons", :path => "../"
 
   
