@@ -6,6 +6,9 @@ language: objective-c
 # cache: cocoapods
 # podfile: Example/Podfile
 
+rvm:
+- 2.3
+
 before_install:
 - gem install activesupport
   
