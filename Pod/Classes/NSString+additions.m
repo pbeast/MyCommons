@@ -14,6 +14,10 @@
     return [self stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
 }
 
+-(NSString*) localized{
+    return NSLocalizedString(self, nil);
+}
+
 -(BOOL)isEmpty{
     return [self isEqualToString:@""];
 }
