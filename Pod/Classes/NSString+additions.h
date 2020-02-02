@@ -19,5 +19,6 @@
 @property (readonly) BOOL isEmpty;
 @property (readonly) BOOL isWhitespaceOrEmpty;
 @property (readonly) BOOL isNilOrEmpty;
+@property (readonly) NSString* localized;
 
 @end
