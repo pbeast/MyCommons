@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "MyCommons"
-  s.version          = "0.3.0"
+  s.version          = "0.4.0"
   s.summary          = "A collection of classes and utilities that I frequently use in my projects."
   s.description      = <<-DESC
                         A collection of classes and utilities that I frequently use in my projects.
