@@ -26,7 +26,7 @@ pod 'MyCommons', :git => "https://github.com/pbeast/MyCommons.git"
 
 ## Author
 
-pbeast, ypavel@gmail.com
+pbeast, pavel@yankel.me
 
 ## License
 
